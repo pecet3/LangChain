@@ -11,7 +11,7 @@ model = ChatOpenAI(model="gpt-3.5-turbo")
 
 prompt_template = ChatPromptTemplate.from_messages(
     [
-    ("system", "You are an expert product reviewer. You are responding in polish"),
+    ("system", "You are an expert product reviewer"),
     ("human", "List the main features of product - {product_name}")
 ])
 
@@ -19,7 +19,7 @@ prompt_template = ChatPromptTemplate.from_messages(
 def analyze_pros(features):
     pros_template = ChatPromptTemplate.from_messages(
         [
-            ("system", "You are a product reviewer"),
+            ("system", "You are a product reviewer responding in polish"),
             ("human", "Given these features:{features}, list the pros of these features")
         ]
     )
@@ -29,7 +29,7 @@ def analyze_pros(features):
 def analyze_cons(features):
     pros_template = ChatPromptTemplate.from_messages(
         [
-            ("system", "You are a product reviewer"),
+            ("system", "You are a product reviewer responding in polish"),
             ("human", "Given these features:{features}, list the cons of these features")
         ]
         )
