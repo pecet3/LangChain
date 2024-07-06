@@ -1,15 +1,11 @@
 from  langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
+from langchain.schema.output_parser import StrOutputParser
 from dotenv import load_dotenv
 
 load_dotenv()
 
-llm = ChatOpenAI(model="gpt-3.5-turbo")
-
-# template = "Tell me a joke about {topic}"
-
-# prompt_template = ChatPromptTemplate.from_template(template)
-# prompt = prompt_template.invoke({"topic":topic})
+model = ChatOpenAI(model="gpt-3.5-turbo")
 
 
 
@@ -23,8 +19,7 @@ prompt_template = ChatPromptTemplate.from_messages(messages)
 topic = input("Topic: ")
 count = input("Count: ")
 
+chain = prompt_template | model |StrOutputParser()
 
-prompt = prompt_template.invoke({"topic": topic,"joke_count":count})
-
-result = llm.invoke(prompt)
-print(result.content)
+result = chain.invoke({"topic": topic,"joke_count":count})
+print(result)
