@@ -10,5 +10,6 @@ template = "Tell me a joke about {topic}"
 
 prompt_template = ChatPromptTemplate(template)
 
-prompt = prompt_template.invoke({"topic":"cats"})
+topic = input("Joke topic")
+prompt = prompt_template.invoke({"topic":topic})
 print(prompt)
