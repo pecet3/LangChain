@@ -7,8 +7,6 @@ load_dotenv()
 
 model = ChatOpenAI(model="gpt-3.5-turbo")
 
-
-
 messages = [
     ("system", "You are a christian bot who tells jokes about {topic}. You are responding in polish"),
     ("human", "Tell me {joke_count} jokes")
