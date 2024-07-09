@@ -1,13 +1,12 @@
 import os
-
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader, PDFPlumberLoader, PyPDFLoader
 from langchain_community.vectorstores import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-dir_path = os.path.join(current_dir, "books")
-persistent_directory = os.path.join(current_dir,"db","chroma_db_metadata_hug_2000")
+dir_path = os.path.join(current_dir, "src")
+persistent_directory = os.path.join(current_dir,"db","chroma_db_rdb2")
 
 print(f"Book dir: {dir_path}")
 
@@ -19,21 +18,24 @@ if not os.path.exists(persistent_directory):
             f"The directory {dir_path} does not exist..."
         )
     
-    book_files = [f for f in os.listdir(dir_path) if f.endswith(".pdf")]
     documents_list = []
-    for book_file in book_files:
-        file_path = os.path.join(dir_path,book_file)
-        loader = PyPDFLoader(file_path)
-        book_docs = loader.load()
-        for doc in book_docs:
-            doc.metadata = {"source":book_file}
+
+
+    txt_files = [f for f in os.listdir(dir_path) if f.endswith(".txt")]
+    for file in txt_files:
+    
+        file_path = os.path.join(dir_path,file)
+        print(file_path)
+        loader = TextLoader(file_path, encoding='utf-8')
+        txt_docs = loader.load()
+        for doc in txt_docs:
+            doc.metadata = {"source":file}
             documents_list.append(doc)
 
-    rec_char_splitter = RecursiveCharacterTextSplitter(chunk_size=2000,chunk_overlap=400)
+    rec_char_splitter = RecursiveCharacterTextSplitter(chunk_size=1000,chunk_overlap=200)
 
     docs = rec_char_splitter.split_documents(documents_list)
 
-    print(f"Sample Chunk: {docs[0:1000].page_content}")
     
     print("Initalize embedings")
     embeddings= HuggingFaceEmbeddings(

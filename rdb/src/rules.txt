@@ -1,0 +1,168 @@
+Regulamin korzystania z aplikacji
+Przed rozpoczęciem korzystania z Aplikacji prosimy dokładnie zapoznać się z niniejszym Regulaminem.
+1. DEFINICJE
+W niniejszym dokumencie Raiffeisen Digital Bank AG używa pewnych określeń zapisanych wielką literą, których znaczenie zostało sprecyzowane poniżej. Definicje te mają jednakowe znaczenie niezależnie od tego, czy dane wyrażenie pojawia się w liczbie pojedynczej, czy mnogiej.
+
+Aplikacja (zwana również „App”) oznacza udostępniane przez nas oprogramowanie w postaci aplikacji mobilnej, które Klient może pobrać ze Sklepu z Aplikacjami.
+Sklep z Aplikacjami (zwany również „App Store”) oznacza aplikację służącą do dystrybucji cyfrowej dostarczoną i opracowaną przez Apple Distribution International Ltd. (Apple App Store) lub Google Ireland Limited (Google Play Store), w której Aplikacja jest dostępna do pobrania.
+Konto oznacza indywidualne konto Klienta utworzone dla Klienta i przypisane do niego w związku z Aplikacją w celu umożliwienia dostępu do Aplikacji lub jej części, w celu korzystania z niej zgodnie z założeniami z punktu 3) „Przeznaczenie Aplikacji", wymagające stosowania indywidualnych danych uwierzytelniających opisanych w pkt 5) „Uwierzytelnianie”.
+Spółka („Nas/Nasz/My") oznacza Raiffeisen Digital Bank AG, zarejestrowaną w Austrii, wpisaną do rejestru spółek prowadzonego przez Sąd Handlowy w Wiedniu pod numerem FN 117507f, NIP ATU 15355005, z siedzibą pod adresem Am Stadtpark 9, 1030 Wiedeń. Raiffeisen Digital Bank AG jest instytucją kredytową w rozumieniu § 1 austriackiej ustawy o bankowości i jest objęty nadzorem Urzędu Rynków Finansowych, znajdującego się pod adresem Otto-Wagner-Platz 5, A-1090 Wiedeń, a także Europejskiego Banku Centralnego, znajdującego się pod adresem Sonnemannstrasse 22, D-60314 Frankfurt nad Menem. Raiffeisen Digital Bank AG podlega przepisom prawa (wraz z ich późniejszymi zmianami), w szczególności austriackiej ustawy o bankowości (Bankwesengesetz) oraz ustawy o nadzorze nad papierami wartościowymi (Wertpapieraufsichtsgesetz); więcej informacji na temat Spółki oraz dodatkowe informacje prawne można znaleźć pod adresem dla Polski: https://www.raiffeisendigital.com/pl/pl/kwestie-prawne/informacje-prawne.html oraz dla Rumunii: https://www.raiffeisendigital.com/ro/ro/aspecte-legale/informatii-legale.html.
+Informacje Zwrotne oznaczają informacje zwrotne, innowacje lub sugestie przesyłane przez Klienta, dotyczące cech, działania lub funkcji naszej Aplikacji.
+Regulamin korzystania z Aplikacji (zwany również „Regulamin”) oznacza niniejszy Regulamin, stanowiący całość porozumienia w sprawie korzystania z Aplikacji między Klientem a Spółką. 
+Zewnętrzni Dostawcy Aplikacji oznaczają wszelkie Aplikacje lub treści (w tym dane, informacje, produkty lub Aplikacje) dostarczane przez osoby trzecie, które mogą być wyświetlane w Aplikacji, włączone do niej lub przez nią udostępniane.
+Klient („Ty/Twój”) oznacza indywidualnego użytkownika korzystającego z Aplikacji.
+Umowa Ramowa oznacza ogólne warunki, wszelkie specjalne warunki, formularze wniosku o konto, tabele opłat i wszelkie inne dokumenty pomocnicze określające, zmieniające lub w inny sposób modyfikujące lub kończące jakąkolwiek część lub całość stosunku umownego między Nami i Klientem w związku z usługami bankowymi udostępnionymi w Aplikacji.
+Umowa Pożyczki oznacza każdą umowę pożyczki wraz ze wszystkimi dokumentami pomocniczymi określającymi, zmieniającymi, zmieniającymi lub w inny sposób modyfikującymi lub rozwiązującymi jakąkolwiek część lub całość stosunku umownego między nami a Klientem w związku z udzielonymi produktami i usługami pożyczkowymi dostępne w aplikacji.
+2. OPIS APLIKACJI
+Spółka udostępnia Klientowi Aplikację, która umożliwia Klientowi otrzymywanie określonych produktów i usług bankowych oferowanych przez Spółkę, co zostało dokładniej opisane w pkt 3) „Przeznaczenie Aplikacji”.
+
+Instalacja i korzystanie z Aplikacji są bezpłatne. W przypadku określonych produktów i usług oferowanych w Aplikacji mogą obowiązywać dodatkowe podatki, prowizje i opłaty, ponieważ są one określone w odpowiednich sekcjach Aplikacji i podlegają odrębnej umowie i/lub warunkom, które zostaną uzgodnione między Użytkownikiem a Nami. W związku z użytkowaniem operator sieci może naliczać opłaty za transmisję danych. Opłaty te pokrywa Klient.
+
+Regulamin określa prawa i obowiązki wszystkich Klientów w zakresie korzystania z Aplikacji.
+
+Aby móc korzystać z Aplikacji, Klient musi spełnić następujące warunki:
+
+mieć ukończone 18 lat oraz być obywatelem i mieszkańcem odpowiednio Polski lub Rumunii; 
+posiadać ważny polski lub rumuński numer telefonu komórkowego oraz ważny adres e-mail;
+korzystać z Aplikacji w celach niezwiązanych z działalnością zawodową;
+dotyczy tylko produktów kredytowych dostępnych w Aplikacji: posiadać bieżące konto bankowe w instytucji finansowej zarejestrowanej odpowiednio w Polsce lub Rumunii, denominowane w walucie krajowej (tj. odpowiednio w polskich złotych (PLN) lub rumuńskich lejach (RON)).
+Minimalne wymagania dotyczące urządzenia, za pomocą którego można korzystać z Aplikacji, muszą odpowiadać specyfikacji technicznej, o której Spółka powiadamia Klienta w momencie uzyskiwania dostępu do Aplikacji. Jest to co najmniej najnowsza wersja systemu operacyjnego iOS i Android oraz dostęp do Internetu.
+
+Uzyskując dostęp do Aplikacji lub korzystając z niej, Klient zobowiązuje się do przestrzegania niniejszego Regulaminu. Zaakceptowanie i potwierdzenie Regulaminu jest konieczne w celu korzystania z Aplikacji. Jeśli nie zgadzasz się z którymkolwiek z postanowień zawartych w niniejszym dokumencie lub dostępnych w Aplikacji, jesteś zobowiązany do niekorzystania z Aplikacji.
+
+3. PRZEZNACZENIE APLIKACJI
+Aplikacja jest udostępniana Klientowi wyłącznie w celu oferowania Państwu określonych produktów i usług bankowych przez Spółkę zgodnie z odrębnymi zasadami i warunkami, które zostaną uzgodnione pomiędzy Klientem a Spółką.
+
+To zawiera:
+
+zdalny onboarding Klienta,
+weryfikacja Twojej tożsamości,
+funkcjonalność płatności, wymiany walut, przetwarzania danych, otwartych usług bankowych, raportowania i korespondencji (w tym możliwość czatu z przedstawicielem Spółki); oraz
+w przypadku wypożyczania produktów, w zależności od dostępności w Twoim kraju, również:
+
+ weryfikacja Twoich dochodów, weryfikacja z odpowiednimi rejestrami publicznymi Twojego statusu w spłacie pożyczki, zbieranie Twoich danych osobowych na potrzeby wniosku pożyczkowego (takich jak imię i nazwisko, numer telefonu, adres e-mail, adres zamieszkania, miesięczne dochody, osoby na utrzymaniu, stan cywilny, informacje o pracodawcy);
+wnioskowanie o pożyczkę i zarządzanie nią, wnioskowanie o wsparcie w zakresie zarządzania spłatą, wakacjami kredytowymi, przedpłatą pełną i częściową, a także przekazanie szczegółów pożyczki, harmonogramu spłat oraz wszelkich innych informacji wymaganych przez obowiązujące przepisy prawa.
+Sposób gromadzenia, wykorzystywania i ujawniania informacji, w tym przekazywania informacji osobom trzecim do celów udostępniania naszej Aplikacji, jest opisany w naszej Polityce Prywatności znajdującej się w stopce serwisu internetowego www.raiffeisendigital.com oraz w Aplikacji.
+4. REJESTRACJA I NATYCHMIASTOWE KORZYSTANIE Z APLIKACJI
+Aby móc korzystać z Aplikacji:
+
+należy pobrać Aplikację na urządzenie mobilne Klienta i ją zainstalować;
+Klient musi się zarejestrować w Aplikacji, przeprowadzając procedurę identyfikacyjną opisaną w pkt 5) „Uwierzytelnianie";
+Klient musi zaakceptować niniejszy Regulamin korzystania z Aplikacji w ramach procesu rejestracji oraz zaakceptować Politykę Prywatności;
+należy podać numer telefonu odpowiednio do Polski lub Rumunii;
+należy podać adres e-mail Klienta.
+Dane dotyczące Klienta, których zażąda Spółka w celu dokonania rejestracji, muszą być poprawne i pełne; w razie późniejszych zmian należy je następnie uaktualniać, korygując dane Klienta, które można odnaleźć w Aplikacji. Dotyczy to w szczególności adresu e-mail podanego w procesie rejestracji, na który Spółka będzie wysyłała e-maile, o których mowa w niniejszym Regulaminie.
+
+Po zarejestrowaniu i pobraniu Aplikacji umowa o korzystanie z Aplikacji, reprezentowana przez niniejszy Regulamin, pomiędzy Spółką a Klientem wchodzi w życie. Z Aplikacji można korzystać natychmiast po pobraniu Aplikacji i rejestracji, w przypadku braku odrzucenia (utworzenie Konta).
+
+Ze względu na możliwość korzystania z Aplikacji od razu, Klient przyjmuje do wiadomości i zgadza się, że nie jest uprawniony do odstąpienia od niniejszego Regulaminu.
+5. UWIERZYTELNIENIE
+Klient musi się zarejestrować, podając swoje dane osobowe oraz numer telefonu komórkowego i adres e-mail podczas instalacji Aplikacji na urządzeniu mobilnym lub wprowadzając wspomniane dane na oficjalnej stronie internetowej Spółki przed pobraniem Aplikacji (jeśli jest dostępna) w celu uzyskania dostępu do Aplikacji. Wszelkie inne szczegółowe informacje i deklaracje wymienione wyraźnie w Aplikacji lub na oficjalnej stronie internetowej Spółki również muszą być dostarczone i potwierdzone przez Klienta w celu rejestracji.
+
+Zarówno numer telefonu komórkowego, jak i adres e-mail Klienta muszą zostać zweryfikowane podczas rejestracji. Weryfikacja danego kanału komunikacji polega na wysłaniu kodu i/lub linku do odpowiedniego kanału, który należy wprowadzić do Aplikacji/strony www Banku lub kliknąć w niego, w przypadku linku potwierdzającego.
+
+Późniejszy dostęp do Aplikacji jest możliwy po wprowadzeniu kodu PIN, który Klient wybiera w procesie rejestracji w Aplikacji lub na oficjalnej stronie internetowej Spółki.
+
+Postanowienia dotyczące czynności rejestracyjnych i dalszych kroków w odniesieniu do produktów i usług bankowych na oficjalnej stronie internetowej Spółki przed pobraniem Aplikacji zależą od dostępności tej funkcji w danym kraju.
+
+Aby mieć dostęp do Aplikacji, podczas rejestracji należy podać numer telefonu oraz osobisty numer identyfikacyjny (zwany dalej „kodem PIN”). Zarejestrowany Klient może zmienić kod PIN w Aplikacji w dowolnym momencie.
+
+Zastosowanie identyfikatorów biometrycznych w procesach identyfikacji:
+
+Po wstępnej konfiguracji kodu PIN, jeśli urządzenie końcowe jest odpowiednio skonfigurowane, Klient może aktywować identyfikację biometryczną (np. odcisk palca lub rozpoznawanie twarzy) w Aplikacji, aby używać go zamiast procesu PIN. Po pierwszym włączeniu identyfikatora biometrycznego, Klient może także zmienić identyfikator biometryczny na inny identyfikator biometryczny obsługiwany przez urządzenie końcowe. Identyfikatory biometryczne są przechowywane wyłącznie w urządzeniu końcowym Klienta. Jeśli urządzenie końcowe Klienta nie rozpoznaje identyfikatora biometrycznego, należy ręcznie wprowadzić kod PIN i wysłać go w celu autoryzacji zlecenia. Klient może wyłączyć identyfikator biometryczny w dowolnym momencie w obszarze “Ustawienia” Aplikacji. Jeśli urządzenie mobilne zostanie zgubione lub skradzione, Klient musi poinformować o tym Spółkę i polecić jej wyłączenie identyfikatora. Klient ma obowiązek zadbać o to, aby do urządzenia końcowego nie miały dostępu żadne nieuprawnione osoby trzecie.
+
+6. ZAKRES PRAW UŻYTKOWANIA PRZYSŁUGUJĄCYCH KLIENTOWI
+Regulamin Aplikacji przyznaje Klientowi zwykłe, niewyłączne i nieprzenoszalne prawo do korzystania z Aplikacji wraz z wszelkimi aktualizacjami oraz innymi elementami składowymi, do własnych, prywatnych celów Klienta, na czas obowiązywania Regulaminu. Wykorzystywanie Aplikacji do celów handlowych lub biznesowych jest niedozwolone. Klient nie może zmieniać, kopiować, hakować, demontować, rekompilować, odtwarzać, publikować, duplikować, replikować, odszyfrowywać, dekompilować ani tworzyć produktów pochodnych z Aplikacji lub jakiejkolwiek jej części. W oparciu o swoje prawo do użytkowania, nie możesz uzyskiwać dostępu do Aplikacji w inny sposób niż oficjalna aplikacja, pozyskiwać i wyodrębniać żadnych danych z baz danych Aplikacji (z wyjątkiem przypadków wyraźnie dozwolonych przez funkcje Aplikacji). Użytkownik może korzystać z Aplikacji wyłącznie w celach zgodnych z prawem i nie może wykorzystywać informacji z Aplikacji lub jej usług do oszustwa, do czynów przestępczych lub do jakichkolwiek innych niezgodnych z prawem celów.
+
+Przed przesłaniem danych do Aplikacji Klient musi upewnić się, że ma odpowiednie prawa do korzystania z danych oraz, że ich upublicznienie i przekazywanie Spółce jest zgodne z prawem. Gwarantujesz, że możesz ujawnić nam wszelkie informacje osób trzecich i że będziemy mogli wykorzystać te informacje w celu świadczenia usług w Aplikacji.
+
+Należy pamiętać, że (między innymi) tekst, treść, oprogramowanie, wideo, dźwięk, grafika, fotografie, ilustracje, nazwy, logo, znaki towarowe i inne materiały udostępnione przez Spółkę w Aplikacji, w całości, łącznie z ich elementami (zwane dalej łącznie „Treścią”) są chronione prawem autorskim i/lub prawami pokrewnymi, prawami do znaków towarowych i/lub innymi formami własności. Treść może obejmować zarówno Treść posiadaną lub kontrolowaną przez Spółkę, jak i treści będące własnością lub kontrolowane przez osoby trzecie i licencjonowane przez Spółkę. Korzystając z tej Aplikacji, zgadzasz się przestrzegać postanowień Regulaminu, a także wszelkich dodatkowych powiadomień lub ograniczeń dotyczących Twoich praw do Treści dostępnych w Aplikacji, w tym warunków użytkowania osób trzecich, zgodnie z przekazanymi Użytkownikowi. Zgadzasz się również, że nie będziesz używać żadnych znaków towarowych, logo ani nazw handlowych Spółki bez uprzedniej wyraźnej pisemnej zgody Spółki i potwierdzasz, że nie masz żadnych praw własności do żadnego z tych znaków towarowych, logo lub nazw.
+
+Klientowi nie wolno wykorzystywać Aplikacji do rozpowszechniania treści niezgodnych z prawem, noszących znamiona nękania bądź mogących wywołać u kogokolwiek dyskomfort lub niedogodności, obscenicznych lub obraźliwych, obelżywych, stanowiących groźby lub pomówienia, naruszających cudzą prywatność lub prawa własności intelektualnej, budzących sprzeciw, zawierających wirusy komputerowe, służących do prowadzenia kampanii politycznych, ofert handlowych, tzw. „łańcuszków”, mailingu masowego bądź „spamu” w jakiejkolwiek postaci, a także treści naruszających prawa osób trzecich. Klient odpowiada za treści udostępniane lub rozpowszechniane przezPage 5 of 9siebie innym osobom. W związku z tym, obowiązkiem Klienta jest upewniać się, czy wszystkie treści są zgodne z prawem i nie naruszają praw osób trzecich.
+
+7. TREŚCI NALEŻĄCE DO OSÓB TRZECICH
+Spółka nie ponosi żadnej gwarancji ani odpowiedzialności za treści od zewnętrznych dostawców aplikacji lub innych osób trzecich, do których dostęp mógł zostać przyznany za pośrednictwem Aplikacji. Jeżeli Spółka poweźmie wiedzę o treściach od osób trzecich, które są niezgodne z prawem, natychmiast uniemożliwi dostęp do nich. Dostęp do treści osób trzecich przechowywanych w Aplikacji jest uzależniony od spełniania przez Klienta warunków uzgodnionych pomiędzy Klientem a osobami trzecimi. Dotyczy to w szczególności identyfikacji Klienta za pomocą elementów (np. numeru rachunku, e-maila i hasła) uzgodnionych z osobą trzecią.
+8. OBOWIĄZEK DOCHOWANIA NALEŻYTEJ STARANNOŚCI PRZEZ KLIENTA
+Na każdym zarejestrowanym Kliencie ciążą następujące obowiązki dochowania należytej staranności:
+
+Dane uwierzytelniające muszą być zachowane w tajemnicy. Nieuprawnione osoby trzecie nie mogą mieć dostępu do danych uwierzytelniających. Dozwolone jest przekazywanie cech identyfikacyjnych dostawcom świadczącym usługę inicjowania płatności lub dostawcom świadczącym usługę dostępu do informacji o rachunku. W przypadku gdy ustalono, że Numery Uwierzytelniania Transakcji (zwane dalej „TAN-ami”) będą przekazywane za pomocą połączenia przez telefon komórkowy, w okresie ważności odpowiednich kodów TAN do aparatów telefonicznych służących do nawiązania takiego połączenia nie mogą mieć dostępu żadne osoby trzecie.
+W przypadku uzasadnionego przypuszczenia, że nieuprawniona osoba trzecia mogła mieć możliwość bezprawnego posłużenia się danymi uwierzytelniającymi, uprawniony użytkownik musi natychmiast podjąć działania określone w pkt 10) „Blokowanie praw dostępu”.
+Przed wysłaniem jakichkolwiek wprowadzonych danych należy sprawdzić, czy są one kompletne i poprawne.
+Urządzenie używane do uzyskiwania dostępu do Aplikacji musi być sprawne technicznie. Nie może wywierać szkodliwego wpływu (np. wysyłać wirusów itp.) na urządzenia i/lub oprogramowanie Spółki lub innych użytkowników.
+Należy zaktualizować Aplikację do najnowszej dostępnej wersji (jeśli została udostępniona przez Spółkę i w sposób, w jaki została udostępniona przez Spółkę), w przeciwnym razie może się zdarzyć, że niektóre funkcje przestaną działać.
+9. OGRANICZENIA DOSTĘPNOŚCI APLIKACJI
+Dostęp do Aplikacji może być sporadycznie niemożliwy lub ograniczony. Tymczasowe ograniczenie możliwości korzystania z Aplikacji może być konieczne w celu naprawy, konserwacji i aktualizacji urządzeń technicznych potrzebnych do działania Aplikacji. Jeżeli ograniczenia te muszą zostać wprowadzone pomiędzy godziną 6:00 a 24:00, Spółka w miarę możliwości uprzedzi o tym Klientów, np. wysyłając zawiadomienie e-mailem. W trosce o to, aby Aplikacja była zawsze aktualna, możemy oferować automatyczne lub ręczne aktualizacje, w dowolnym momencie, nie informując o tym Klienta. Spółka nie odpowiada za żadne szkody u Klienta wywołane przez niezależną osobę trzecią w związku z Aplikacją lub powstałe w inny sposób wskutek zdarzenia, którego nie można było uniknąć, a które nie było spowodowane wadą jakościową ani usterką infrastruktury Spółki do automatycznego przetwarzania danych.
+10. BLOKOWANIE PRAW DOSTĘPU
+W przypadku utraty danych uwierzytelniających otrzymanych od Spółki lub utworzonych przez zarejestrowanego użytkownika, i/lub w przypadku utraty danych uwierzytelniających niezbędnych do utworzenia bezpiecznego podpisu elektronicznego, bądź w przypadku uzasadnionych podejrzeń, że nieuprawniona osoba trzecia mogła mieć możliwość bezprawnego posłużenia się danymi uwierzytelniającymi, bądź też w przypadku jakichkolwiek innych wątpliwości w zakresie bezpieczeństwa dotyczących Klienta lub Aplikacji, Klient obowiązany jest natychmiast albo zmienić PIN albo zawiadomić Spółkę o tym fakcie i poprosić Spółkę o zablokowanie konta w Aplikacji, kontaktując się z naszym działem pomocy pod adresem contact.pl@raiffeisendigital.com dla Polski lub contact.ro@raiffeisendigital.com dla Rumunii. W razie potrzeby Spółka może zaproponować dodatkowe uzasadnione i obiektywne środki bezpieczeństwa.
+
+Blokada może zostać usunięta wyłącznie przez Spółkę, przy czym Spółka nie może bezzasadnie odmówić jej usunięcia, w szczególności jeżeli ustała przyczyna nałożenia blokady. W celu usunięcia blokady, Klient musi wysłać Spółce e-mail ze swojego adresu poczty elektronicznej (zweryfikowanego przez Spółkę zgodnie z pkt 5) „Uwierzytelnianie") z prośbą o usunięcie blokady.
+
+11. ZMIANY W REGULAMINIE
+Zmiany w niniejszym Regulaminie będą proponowane Klientowi przez Spółkę w sposób określony poniżej (zwany dalej „Propozycją Zmiany”). Propozycja Zmiany będzie określała zmieniane punkty w Regulaminie oraz proponowane zmiany w postaci tabeli porównawczej (zwanej dalej „Tabelą Porównawczą”).
+
+Propozycja Zmiany oraz Tabela Porównawcza zostaną formalnie przekazane Klientom będącym konsumentami. Doręczenie nastąpi e-mailem. Będą one również dostępne w Aplikacji.
+
+Spółka nie może wprowadzać zmian w Propozycji Zmiany ani w Tabeli Porównawczej po ich dostarczeniu. Klient może wydrukować Propozycję Zmiany i Tabelę Porównawczą lub przechowywać je w postaci cyfrowej.
+
+Propozycja Zmiany i Tabela Porównawcza muszą zostać udostępnione Klientowi będącemu konsumentem najpóźniej dwa miesiące przed proponowanym terminem wprowadzenia zmian w życie.
+
+Jeżeli Spółka nie otrzyma od Klienta żadnego sprzeciwu na piśmie lub e-mailem przed proponowanym terminem wprowadzenia zmian w życie, uznaje się, że Klient zaakceptował Propozycję Zmian. Spółka zwróci na to uwagę Klienta w Propozycji Zmiany.
+
+Klient ma prawo wypowiedzieć Regulamin (umowę w sprawie korzystania z Aplikacji) bez uprzedzenia i bez ponoszenia żadnych kosztów przed wejściem zmiany w życie. Spółka zwróci uwagę Klienta również na ten fakt w Propozycji Zmiany. Należy pamiętać, że szczególne warunki wypowiedzenia mogą mieć zastosowanie do pożyczki i innych produktów i usług bankowych oferowanych przez Spółkę w Aplikacji, zgodnie z odrębną umową i warunkami, które zostaną uzgodnione między Tobą a Nami.
+
+Spółka może uzgodnić zmianę możliwości korzystania w sposób opisany w tym punkcie tylko jeżeli po uwzględnieniu wszystkich okoliczności (zmiany wymagań większości klientów, wymogi prawne i statutowe, bezpieczeństwo operacji bankowych, postęp techniczny lub spadek poziomu korzystania z usług mający wyraźnie niekorzystny wpływ na pokrycie kosztów) jest to obiektywnie uzasadnione.
+
+Jest to obiektywnie uzasadnione wyłącznie w przypadku, gdy proponowana zmiana sposobu korzystania spowoduje rozszerzenie lub ograniczenie usług oferowanych przez Spółkę w zakresie, który może zostać uznany za uzasadniony dla Klienta i nie spowoduje nieproporcjonalnej zmiany istotnych praw i obowiązków na korzyść Spółki.
+
+Wszelkie nowe funkcje, instrumenty lub usługi dostępne w Aplikacji będą podlegać niniejszemu Regulaminowi.
+
+Zaktualizowaną wersję Regulaminu można zawsze sprawdzić w Aplikacji, a kopię obowiązującego Regulaminu można zapisać w dowolnym momencie.
+
+12. INFORMACJE ZWROTNE OD KLIENTA
+Klient ceduje na Spółkę wszystkie prawa, tytuły prawne i uprawnienia do wszelkich Informacji Zwrotnych przekazanych Spółce. Jeżeli z jakiejkolwiek przyczyny taka cesja będzie nieskuteczna, Klient zobowiązuje się do udzielenia Spółce niewyłącznego, bezterminowego, nieodwołalnego, nieodpłatnego i ważnego na całym świecie prawa i licencji do wykorzystywania, powielania, ujawniania, rozpowszechniania takich Informacji Zwrotnych, udzielania na nie dalszych licencji, wprowadzenia w nich zmian oraz wykorzystywania ich bez ograniczeń na wszystkich polach eksploatacji znanych w dniu przekazania Spółce Informacji Zwrotnych przez Klienta, takich jak wytwarzanie kopii przy użyciu określonej technologii, w tym techniki drukarskiej, reprograficznej, zapisu magnetycznego oraz techniki cyfrowej; publiczne udostępnianie, wprowadzanie do obrotu, użyczenie lub najem oryginału albo egzemplarzy; publiczne wykonanie, wystawienie, wyświetlenie, odtworzenie oraz nadawanie i reemitowanie, a także publiczne udostępnianie utworu w taki sposób, aby każdy mógł mieć do niego dostęp w miejscu i w czasie przez siebie wybranym.
+13. LINKI DO STRON INTERNETOWYCH LUB URL DOSTAWCÓW ZEWNĘTRZNYCH:
+O ile Spółka nie posiada wiedzy, zgodnie z którą treść danego linku, zewnętrznej strony internetowej lub zewnętrznego URL jest niezgodna z prawem lub jej niezgodność z prawem nie jest dla Spółki oczywista, Spółka nie ponosi żadnej odpowiedzialności za treść stron internetowych lub URL innych dostawców, do których linki znajdują się w Aplikacji. Spółka nie przyjmuje również żadnej odpowiedzialności za ciągłą dostępność lub pełną funkcjonalność linków do stron internetowych lub URL osób trzecich znajdujących się w Aplikacji.
+
+14. OKRES OBOWIĄZYWANIA REGULAMINU I CESJA
+Regulamin zostaje zawarty na czas nieokreślony, przy czym może zostać wypowiedziany w każdym czasie:
+
+▪ przez Klienta bez konieczności zawiadamiania, a także poprzez usunięcie Aplikacji z urządzenia mobilnego,
+
+▪ lub przez Spółkę z zachowaniem dwumiesięcznego okresu wypowiedzenia.
+
+Strony umowy są ponadto uprawnione do rozwiązania stosunku umownego w trybie natychmiastowym z ważnej przyczyny.
+
+Spółka dostarczy wypowiedzenie Klientowi e-mailem.
+
+Usunięcie Aplikacji z urządzenia mobilnego Klienta oraz wypowiedzenie Regulaminu (umowy w sprawie korzystania z Aplikacji) może spowodować, że Klient utraci możliwość korzystania z usług Spółki lub osób trzecich bądź możliwość ta zostanie ograniczona (zwłaszcza w przypadku pożyczek oraz produktów i usług bankowych). Prosimy o zapoznanie się z Umową Pożyczki i/lub Umową Ramową dostępną w Aplikacji w odniesieniu do dostępności zarządzania pożyczkami oraz produktami i usługami bankowymi w przypadku wypowiedzenia Regulaminu i należy pamiętać, że szczególne warunki wypowiedzenia mogą mieć zastosowanie w przypadku Umowy Pożyczki oraz produktów i usług bankowych oferowanych przez Spółkę w Aplikacji, zgodnie z Umową Pożyczki i/lub odrębnymi warunkami do uzgodnienia między Tobą a Nami.
+
+Wypowiedzenie Regulaminu oznacza, że nie masz już dostępu do informacji i Treści z Aplikacji; w związku z tym Twoim obowiązkiem jest upewnienie się, że jeśli jest to dozwolone w Aplikacji, zapisałeś i przechowywałeś wszystkie Twoje informacje i dokumenty, których potrzebujesz, przed wypowiedzeniem.
+
+Klient nie może scedować niniejszego Regulaminu ani wynikających z niego praw lub obowiązków na żadną inną osobę lub podmiot bez uprzedniej pisemnej zgody Spółki.
+
+Spółka może dokonać cesji niniejszego Regulaminu lub wynikających z nich praw lub obowiązków bez konieczności uzyskania dodatkowej zgody Klienta, gdyż zgodę taką uważa się za wyrażoną poprzez akceptację niniejszego Regulaminu.
+
+W przypadku rozwiązania Umowy Pożyczki i / lub Umowy Ramowej między Nami a Klientem, Klient będzie nadal miał dostęp do Aplikacji i przechowywanych w niej informacji historycznych zgodnie z niniejszym Regulaminem przez okres dziesięciu (10) lat po rozwiązaniu Umowy Pożyczki lub Umowy Ramowej. Klient ma prawo zażądać wypowiedzenia niniejszego Regulaminu przed upływem tego terminu.
+
+15. PROMOCJE
+Wszelkie Promocje udostępniane przez Aplikację podlegają odrębnym warunkom, nieobjętym niniejszym Regulaminem i stanowią jego uzupełnienie. W przypadku gdy Klient uczestniczy w jakichkolwiek Promocjach, powinien zapoznać się z dokładnym regulaminem danej Promocji.
+16. ZASTRZEŻENIA
+Wszelkie zapytania lub zastrzeżenia dotyczące Aplikacji oraz niniejszego Regulaminu można kierować do naszego działu obsługi klienta, kontaktując się z nim za pośrednictwem e-maila lub czatu. Klient może również skontaktować się z Bankiem korzystając z sekcji 20) „Jak możesz się z nami skontaktować”.
+17. PRAWO WŁAŚCIWE
+Niniejszy Regulamin podlega przepisom prawa austriackiego i zgodnie z nim będzie interpretowany. Jednakże wybór prawa nie ogranicza żadnych z praw, jakie mogą przysługiwać Klientowi jako konsumentowi w świetle bezwzględnie obowiązujących przepisów prawa odpowiednio Polski lub Rumunii. Konsument może wnosić przeciwko Spółce sprawy dotyczące niniejszego Regulaminu do sądów odpowiednio w Polsce lub Rumunii właściwych miejscowo dla jego miejsca zamieszkania.
+
+Możliwe jest również złożenie skargi dotyczącej Regulaminu do Wspólnej Komisji Rozjemczej Austriackiego Sektora Bankowego (Gemeinsame Schlichtungsstelle der österreichischen Kreditwirtschaft), Wiedner Hauptstraße 63, 1045 Wiedeń, który jest niezależnym organem w dziedzinie pozasądowego rozwiązywania sporów. Dalsze informacje o kolegium rozjemczym i warunkach odwołania znajdują się na stronie https://www.bankenschlichtung.at/. Warto pamiętać, że jako polski Klient można złożyć skargę za pośrednictwem dowolnego polskiego członka sieci rozpatrywania skarg dotyczących usług finansowych (FIN-NET). Skarga zostanie wtedy przesłana do Wspólnej Komisji Rozjemczej Austriackiego Sektora Bankowego. Udział w postępowaniu pojednawczym jest dla Spółki dobrowolny. Spółka decyduje o udziale indywidualnie w każdym przypadku.
+
+Aby wejść na oficjalną stronę internetową rumuńskiego urzędu ochrony konsumentów, należy skorzystać z następującego linku: A.N.P.C - Autoritatea Națională pentru Protecția Consumatorilor.
+
+18. ROZDZIELNOŚĆ POSTANOWIEŃ UMOWY
+Jeżeli którekolwiek postanowienie niniejszego Regulaminu zostanie uznane za niewykonalne lub nieważne, zostanie ono zmienione i będzie interpretowane w taki sposób, aby w jak największym stopniu osiągnąć cel tego postanowienia zgodnie z obowiązującymi przepisami prawa, a pozostałe postanowienia zachowują pełną moc.
+
+19. ZRZECZENIE SIĘ PRAW
+O ile w niniejszym Regulaminie nie wskazano inaczej, nieskorzystanie z prawa lub odstąpienie od żądania wykonania zobowiązania wynikającego z niniejszego Regulaminu nie ma wpływu na możliwość korzystania z tego prawa lub zażądania wykonania zobowiązania w dowolnym momencie w późniejszym czasie, a zrezygnowanie z dochodzenia roszczeń z tytułu naruszenia nie oznacza rezygnacji z dochodzenia roszczeń w przypadku jakiegokolwiek późniejszego naruszenia.
+20. JAK SIĘ Z NAMI SKONTAKTOWAĆ
+Spółka komunikuje się z Klientem, odpowiednio w języku polskim lub rumuńskim. Informacje i oświadczenia od Spółki lub powiązane z nimi dokumenty uzupełniające będą przekazywane przez Spółkę pocztą tradycyjną oraz elektroniczną. Spółka może również przekazywać Klientowi informacje niewiążące prawnie za pośrednictwem Aplikacji (za pomocą funkcji czatu w Aplikacji i skrzynki odbiorczej). Klient wyraża zgodę na przesyłanie listów, wiadomości e-mail oraz powiadomień i wiadomości w Aplikacji jako środków komunikacji w odniesieniu do Aplikacji. W razie jakichkolwiek dalszych pytań można również skontaktować się z nami poprzez:
+
+E-mail Polska: contact.pl@raiffeisendigital.com
+E-mail Rumunia: contact.ro@raiffeisendigital.com
+Pocztę tradycyjną na adres: Raiffeisen Digital Bank AG, Am Stadtpark 9, 1030 Wiedeń, Austria

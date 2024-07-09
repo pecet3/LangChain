@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.output_parser import StrOutputParser
 
+print("Loading...")
+
 load_dotenv()
 
 model = ChatOpenAI(model="gpt-3.5-turbo")
@@ -20,7 +22,7 @@ messages = [
 
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-persistent_directory = os.path.join(current_dir,"db","chroma_db_metadata_hug_2000")
+persistent_directory = os.path.join(current_dir,"db","chroma_db_rdb2")
 
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 
@@ -28,7 +30,7 @@ db = Chroma(persist_directory=persistent_directory, embedding_function=embedding
 
 retriever = db.as_retriever(
     search_type="similarity_score_threshold",
-    search_kwargs={"k":3,"score_threshold":0.1}
+    search_kwargs={"k":5,"score_threshold":0.3}
 )
 
 # retriever = db.as_retriever(
@@ -46,12 +48,12 @@ while True:
     documents = []
     for i,doc in enumerate(relevant_docs, 1):
         print(f"\n\n-------Document-{i}-------\n\n{doc.page_content}\n********************")
-        print(f"Source: {doc.metadata['source']}\n********************")
+        print(f"Source: {doc.metadata['source']}\n********************\n")
         documents.append(f"Fragment no: {i}\n"+doc.page_content)
 
-    chain = prompt_template | model | StrOutputParser()   
-    result = chain.invoke({"documents":documents,"query":query})
-    print(f"\n {result}")
+    # chain = prompt_template | model | StrOutputParser()   
+    # result = chain.invoke({"documents":documents,"query":query})
+    # print(f"\n {result}")
     
 
 

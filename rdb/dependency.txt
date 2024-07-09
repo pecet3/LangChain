@@ -1,0 +1,5 @@
+pip install langchain-community
+pip install langchain-huggingface
+pip install pypdf
+pip install pdfplumber
+pip install chromadb
