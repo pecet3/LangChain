@@ -1,3 +1,5 @@
 .env
 langchain
 .venv 
+books
+db
